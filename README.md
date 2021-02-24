@@ -1,2 +1,2 @@
 # Python-Automation-
-learning to build Python Bot with the help of Selenium 
+ Build Python Bot with the help of Selenium 
